@@ -1,4 +1,4 @@
-### Olá, eu sou a Isabella! 👋
+## Olá, eu sou a Isabella! 👋
 
 <!--
 **bellaalves/bellaalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
